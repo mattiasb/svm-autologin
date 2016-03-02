@@ -1,4 +1,4 @@
-# svm-autologin #
+# SvenskaMagic Auto Login #
 
 A user script to automatically log in to [SvenskaMagic][1]
 
