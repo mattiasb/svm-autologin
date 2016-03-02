@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        SvenskaMagic – Login
+// @name        SvenskaMagic Auto Login
 // @namespace   io.github.mattiasb.svm-autologin
 // @description Auto-login to SvenskaMagic
 // @include     http://www.svenskamagic.com/
