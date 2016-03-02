@@ -2,7 +2,7 @@
 // @name        SvenskaMagic Auto Login
 // @namespace   io.github.mattiasb.svm-autologin
 // @description Auto-login to SvenskaMagic
-// @include     http://www.svenskamagic.com/
+// @include     http://www.svenskamagic.com/*
 // @version     1
 // @license     MIT
 // @grant       none
