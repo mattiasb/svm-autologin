@@ -4,6 +4,7 @@
 // @description Auto-login to SvenskaMagic
 // @include     http://www.svenskamagic.com/
 // @version     1
+// @license     MIT
 // @grant       none
 // @run-at      document-idle
 // ==/UserScript==
